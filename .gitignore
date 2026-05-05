@@ -1,0 +1,9 @@
+# Ignore model weights and large files
+gemma-final/
+gemma_test.gguf
+gemma-f16.gguf
+llama.cpp.zip
+llama.cpp/
+llama_bin/
+__pycache__/
+*.gguf
